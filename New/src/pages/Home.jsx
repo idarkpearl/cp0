@@ -26,7 +26,7 @@ const Home = () => {
             <ExperiencePage
                 title="Crafted to Be Remembered."
                 subtitle="A bowl designed with precision."
-                accent="Experience the Craft."
+                accent="Experience the Flavor Twin."
                 sections={sections}
             />
             <FlavorDiscovery />
